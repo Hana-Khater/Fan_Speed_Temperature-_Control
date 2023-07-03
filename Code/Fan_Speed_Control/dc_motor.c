@@ -2,7 +2,7 @@
  * dc_motor.c
  *
  *  Created on: Oct 7, 2021
- *      Author: Hana
+ *      Author: Hana Khater
  */
 
 #include "dc_motor.h"
