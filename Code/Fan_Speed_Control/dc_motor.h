@@ -2,7 +2,7 @@
  * dc_motor.h
  *
  *  Created on: Oct 7, 2021
- *      Author: Hana
+ *      Author: Hana Khater
  */
 
 #ifndef DC_MOTOR_H_
