@@ -2,7 +2,7 @@
  * miniproject3.c
  *
  *  Created on: Oct 7, 2021
- *      Author: Hana
+ *      Author: Hana Khater
  */
 
 #include "lcd.h"
