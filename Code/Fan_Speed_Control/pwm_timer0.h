@@ -2,7 +2,7 @@
  * pwm_timer0.h
  *
  *  Created on: Oct 8, 2021
- *      Author: Hana
+ *      Author: Hana Khater
  */
 
 #ifndef PWM_TIMER0_H_
